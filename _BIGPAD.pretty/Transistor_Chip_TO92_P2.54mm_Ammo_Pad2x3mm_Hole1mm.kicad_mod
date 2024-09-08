@@ -67,8 +67,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -1.905 -1.27)
-		(end -1.905 1.905)
+		(start -1.524 -1.143)
+		(end -1.524 1.905)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -77,8 +77,8 @@
 		(uuid "93a27da1-cdba-4959-b10a-c438678e1510")
 	)
 	(fp_line
-		(start -1.905 1.905)
-		(end 6.985 1.905)
+		(start -1.524 1.905)
+		(end 6.604 1.905)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -87,8 +87,8 @@
 		(uuid "e42b1257-fcd5-47ee-bae7-5928ba36e050")
 	)
 	(fp_line
-		(start 6.985 1.905)
-		(end 6.985 -1.27)
+		(start 6.604 1.905)
+		(end 6.604 -1.143)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -97,19 +97,19 @@
 		(uuid "2780d47e-3b3e-499e-b8d1-277bb6e473ba")
 	)
 	(fp_arc
-		(start -1.903798 -1.269141)
-		(mid 2.54 -3.556)
-		(end 6.983798 -1.269141)
+		(start -1.524 -1.143)
+		(mid 2.54 -3.175)
+		(end 6.604 -1.143)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "21719640-dc28-43ef-a865-cf7b086e5277")
+		(uuid "da918c15-7a4c-4546-bedf-a4315495b740")
 	)
 	(fp_line
-		(start -2.032 -1.397)
-		(end -2.032 2.032)
+		(start -1.651 -1.27)
+		(end -1.651 2.032)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -118,8 +118,8 @@
 		(uuid "875f803a-f861-4d8c-afb2-24886224fbdc")
 	)
 	(fp_line
-		(start -2.032 2.032)
-		(end 7.112 2.032)
+		(start -1.651 2.032)
+		(end 6.731 2.032)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -128,8 +128,8 @@
 		(uuid "6c78b7a1-d395-4a53-9412-bbc73338ce1c")
 	)
 	(fp_line
-		(start 7.112 2.032)
-		(end 7.112 -1.397)
+		(start 6.731 2.032)
+		(end 6.731 -1.27)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -138,15 +138,15 @@
 		(uuid "aff6491c-5eac-42c8-9d98-a0c36f4b1ba5")
 	)
 	(fp_arc
-		(start -2.032 -1.397)
-		(mid 2.54 -3.633091)
-		(end 7.112 -1.397)
+		(start -1.650999 -1.27)
+		(mid 2.54 -3.303511)
+		(end 6.730999 -1.27)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "cd8af937-82fd-44b0-8f04-7b90c91a54ef")
+		(uuid "7edf519b-6eaf-49aa-9f28-4476689e3b8a")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 2.54 -4.445 0)
